@@ -1,0 +1,115 @@
+#ul1 {
+    display: inline;
+    margin-left: 390px;
+}
+li {
+    list-style: none;
+    display: inline;
+}
+.li1 {
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+}
+.menu {
+    font-size: 18px;
+}
+#contactUs {
+    margin-left: 170px;
+    font-size: 14px;
+    padding: 8px 16px 8px 16px ;
+    background-color: #00AC25;
+    color: white;
+    border-radius: 8px;
+}
+#about {
+    color: #FF5DA3;
+}
+#logo {
+    width: 150px;
+    margin-right: 150px;
+}
+#titleText {
+    font-size: 72px;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+}
+#titleDiv {
+    width: 1316px;
+    height: 543px;
+    margin: 280px auto;
+}
+#pinkText {
+    color: #FF5DA3;
+}
+#smallParagh {
+    font-size: 24px;
+    text-align: center;
+    width: 1316px;
+    height: 64px;
+}
+#titleDiv2{
+    height: 59px;
+}
+#titleText2{
+    font-size: 48px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#sameInfo {
+    width: 716px;
+    height: 96px;
+    margin: 0 auto;
+}
+#smallParagh2 {
+    font-size: 24px;
+    text-align: center;
+    color: #6941C6;
+    margin-bottom: 24px;
+}
+#clickBox {
+    width: 233px;
+    height: 54px;
+    margin: 24px auto;
+    text-align: center;
+}
+#becomeIns {
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 16px 24px 16px 24px;
+    background-color: #00AC25;
+    border-radius: 8px;
+}
+#nav2 {
+    width: 100%;
+    height: 128px;
+    background-color: #53389E;
+    margin-top: 540px;
+}
+#footerImage {
+    width: 160px;
+    height: 32px;
+    margin-right: 190px;
+}
+#ul2 {
+    width: 1280px;
+    height: 32px;
+    padding: 48px 303.5px 48px 303.5px;
+}
+.fColor {
+    color: #E9D7FE;
+}
+.li2 {
+    margin-right: 32px;
+}
+#privacy {
+    margin-right: 210px;
+}
+#copyColor {
+    color: #D6BBFB;
+}
