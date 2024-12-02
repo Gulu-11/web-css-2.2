@@ -38,7 +38,7 @@ a {
     margin-top: 0px;
     margin-bottom: 24px;
 }
-#titleDiv {
+#mainDiv {
     width: 1316px;
     height: 543px;
     margin: 280px auto;
@@ -52,7 +52,7 @@ a {
     width: 1316px;
     height: 64px;
 }
-#titleDiv2{
+#titleDiv{
     height: 59px;
 }
 #titleText2{
